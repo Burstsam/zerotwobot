@@ -37,6 +37,10 @@
 * Me(Repo Owner) : [Joker Hacker](https://t.me/kishoreee)
 * Wiki : [Checkout Our Wiki](https://github.com/Black-Bulls-Bots/zerotwobot/wiki)
 
+## Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Burstsam/zerotwobot/tree/dependabot/pip/ujson-5.1.0)
+
 ## CREDITS
 
 [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot)
